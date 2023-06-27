@@ -1,0 +1,14 @@
+<svg width="31" height="41" viewBox="0 0 31 41" fill="none" xmlns="http://www.w3.org/2000/svg">
+<ellipse cx="15.5" cy="38.3549" rx="2.58333" ry="2.64516" fill="url(#paint0_linear_16_511)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M22.3381 9.64311C22.3381 13.5276 19.2964 16.6423 15.5 16.6423C11.705 16.6423 8.66196 13.5276 8.66196 9.64311C8.66196 5.75865 11.705 2.64526 15.5 2.64526C19.2964 2.64526 22.3381 5.75865 22.3381 9.64311ZM15.5 29.0969C9.89725 29.0969 5.16669 28.1644 5.16669 24.567C5.16669 20.9682 9.92697 20.0689 15.5 20.0689C21.1041 20.0689 25.8334 21.0013 25.8334 24.5987C25.8334 28.1975 21.0731 29.0969 15.5 29.0969Z" fill="url(#paint1_linear_16_511)"/>
+<defs>
+<linearGradient id="paint0_linear_16_511" x1="18.0834" y1="41" x2="11.1954" y2="40.4795" gradientUnits="userSpaceOnUse">
+<stop stop-color="#C58BF2"/>
+<stop offset="1" stop-color="#EEA4CE"/>
+</linearGradient>
+<linearGradient id="paint1_linear_16_511" x1="25.8334" y1="29.0969" x2="-1.77506" y2="27.4277" gradientUnits="userSpaceOnUse">
+<stop stop-color="#C58BF2"/>
+<stop offset="1" stop-color="#EEA4CE"/>
+</linearGradient>
+</defs>
+</svg>
